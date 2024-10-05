@@ -37,16 +37,8 @@
     "sass": "^1.62.1",
     "vite": "^4.3.9"
   },
-  "github": "https://github.com/capricorncd",
-  "homepage": "https://github.com/capricorncd/demos/tree/main/website",
+  "homepage": "https://capricorncd.github.io",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/capricorncd"
-  },
-  "docInfo": {
-    "name": "capricorncd",
-    "source": "website",
-    "url": "https://capricorncd.github.io/",
-    "desc": "React17 Vite Scss"
+    "url": "https://github.com/capricorncd/personal-homepage"
   }
 }
