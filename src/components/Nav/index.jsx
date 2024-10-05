@@ -9,7 +9,9 @@ import './nav.scss'
 class Header extends Component {
   render() {
     return <header>
-      <h1 className="page-title-wrapper">Capricorn<i>cd</i></h1>
+      <h1 className="page-title-wrapper">
+        <img src="./logo.png" />
+      </h1>
       <a href="https://github.com/capricorncd" target="_blank" className="github" rel="noreferrer">
         <svg width="24" height="24" viewBox="0 0 16 16" version="1.1" aria-hidden="true">
           <path fillRule="evenodd"
